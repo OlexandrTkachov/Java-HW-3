@@ -1,0 +1,14 @@
+[
+  {
+    "key": "itstep.learning.Headwear",
+    "value": [
+      "headSize"
+    ]
+  },
+  {
+    "key": "itstep.learning.Footwear",
+    "value": [
+      "footSize"
+    ]
+  }
+]
